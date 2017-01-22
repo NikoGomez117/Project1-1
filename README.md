@@ -1,19 +1,18 @@
 #Project 1-1 Spec [Due 1/27 at 11:59 pm]:
-##How to download unity
-Download unity at https://store.unity.com/download?ref=personal and install it
-How to get project through git
-The project can be accessed at: https://github.com/berkeleyGamedev/Project1-1
-If you (or your partner) know how to use git use it to clone the repository.
-If you don’t know how to use git here is a tutorial: http://rogerdudler.github.io/git-guide/ 
-If you have further questions about acquiring the project, ask on piazza.
+##How to download Unity
+Download Unity at https://store.unity.com/download?ref=personal and install it  
+##How to get project through git  
+The project repository is at: https://github.com/berkeleyGamedev/Project1-1  
+If you or your partner know how to use git use it to clone the repository.  
+If you don’t know how to use git, here is a tutorial: http://rogerdudler.github.io/git-guide/  
+If you have further questions about acquiring the project, please ask on Piazza.  
 
-You should try to use git for version control on this project. Submission will be through your git repository on Github.
+You should try to use git for version control on the project. Submission will be through your git repository on Github.
 
-
-In order to open the project in Unity simply run unity and click the open button on the splash ..*screen, then select the project folder. 
+In order to open the project in Unity simply run Unity and click the open button on the splash screen, then select the project folder.
 
 ##About the Project
-This project is for teams of 1-2 (we would prefer teams of 2), every team must have at least 1 programmer. The project is split into 3 parts. Every team must do the Editor and Programming parts, you only have to do the Art part if you have an artist in your group. You can find a partner through the Piazza “Find a teammate” post.
+This project is for teams of 1-2 (we would prefer teams of 2). Every team must have at least 1 programmer. The project is split into 3 parts. Every team must do the Editor and Programming parts, and you only have to do the Art part if you have an artist in your group. You can find a partner through the Piazza “Find a teammate” post.
 
 ##Grade Breakdown:
 Requirements: 55%
@@ -48,15 +47,13 @@ Requirements:
   * Changes will be made in FixedUpdate()
 * Make Mario jump
   * Changes will be made to the class Jumping
-* Add a new ability to Mario 
+* Add a new ability to Mario
   * If your group is not doing the Art category and you have 2 members you must add two new abilities.
   * Ex: Hover jump, double jump, teleportation, etc
-  * Does not have to be an actual Mario ability! 
+  * Does not have to be an actual Mario ability!
 
 ##Submission:
 * Place a copy of all your art files into a separate folder. Make sure this folder is included in your git repository.
 * Make sure you have added the github user berkeleyGamedev as a contributor to your github repository.
 * Add a commit with a “final submission” tag and push it to github.
 * Double check that the github repository contains a working version of your project :-)
-
-
